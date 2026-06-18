@@ -1,5 +1,14 @@
 {
   "keys": [
-    {"key": "admin1354", "role": "admin", "expires": null}
+    {
+      "key": "admin1354",
+      "role": "admin",
+      "expires": null
+    },
+    {
+      "key": "jose_user",
+      "role": "user",
+      "expires": "2026-06-18T22:40:00"
+    }
   ]
 }
