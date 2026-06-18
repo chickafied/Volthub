@@ -1,3 +1,9 @@
 {
-  "wallpapers": []
+  "wallpapers": [
+    {
+      "id": "some-uuid-here",
+      "name": "My Wallpaper",
+      "filename": "lsu.png"
+    }
+  ]
 }
