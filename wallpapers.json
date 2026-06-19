@@ -4,11 +4,16 @@
       "id": "some-uuid-here",
       "name": "My Wallpaper",
       "filename": "lsu.png"
-    }
+    },
     {
       "id": "animegirl",
       "name": "animegirl",
       "filename": "anime.jpg"
+    },
+    {
+      "id": "livevideo",
+      "name": "Live Video",
+      "filename": "live.mp4"
     }
   ]
 }
