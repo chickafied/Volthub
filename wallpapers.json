@@ -5,5 +5,10 @@
       "name": "My Wallpaper",
       "filename": "lsu.png"
     }
+    {
+      "id": "animegirl",
+      "name": "animegirl"
+      "filename": "anime.jpg"
+    }
   ]
 }
