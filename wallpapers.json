@@ -14,6 +14,11 @@
       "id": "livevideo",
       "name": "Live Video",
       "filename": "live.mp4"
+    },
+    {
+      "id": "fff",
+      "name": "fff",
+      "filename": "fff.jpg"
     }
   ]
 }
