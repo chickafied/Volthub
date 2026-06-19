@@ -6,9 +6,9 @@
       "expires": null
     },
     {
-      "key": "testerpre",
+      "key": "tester",
       "role": "admin",
-      "expires": null
+      "expires": "2026-06-18T23:00:00"
     }
   ]
 }
