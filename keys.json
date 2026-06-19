@@ -4,6 +4,11 @@
       "key": "admin1354",
       "role": "admin",
       "expires": null
+    },
+    {
+      "key": "testerpre",
+      "role": "admin",
+      "expires": null
     }
   ]
 }
